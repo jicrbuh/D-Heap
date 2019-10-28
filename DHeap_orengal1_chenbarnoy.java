@@ -2,8 +2,8 @@
 /**
  * D-Heap
  * Submitted by:
- * Oren Gal – 302378633 – orengal1
- * Chen Barnoy – 308547108 - chenbarnoy
+ * Oren Gal 
+ * Chen Barnoy 
  */
 
 public class DHeap {
